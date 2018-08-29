@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ServiceImpl.expresDelivery" project="openapicloud-provider-api-8001" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testcase name="expresDelivery" classname="com.atguigu.springcloud.serviceimpl.ServiceImpl" time="34.628"/>
+</testrun>

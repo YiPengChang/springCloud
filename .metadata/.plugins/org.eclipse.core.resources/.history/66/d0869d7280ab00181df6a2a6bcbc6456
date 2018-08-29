@@ -1,0 +1,7 @@
+package com.atguigu.springcloud.serviceimpl;
+
+import com.atguigu.springcloud.service.Service;
+
+public class ServiceImpl implements Service{
+
+}

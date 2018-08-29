@@ -1,0 +1,5 @@
+com\atguigu\springcloud\model\Demo.class
+com\atguigu\springcloud\model\ResponseExpresDelivery.class
+com\atguigu\springcloud\model\ResponseExpresDeliveryContent.class
+com\atguigu\springcloud\util\MapToModelUtil.class
+com\atguigu\springcloud\model\ExpresDelivery.class

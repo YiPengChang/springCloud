@@ -1,0 +1,8 @@
+package com.atguigu.springcloud.service;
+
+import com.atguigu.springcloud.model.ExpresDelivery;
+import com.atguigu.springcloud.model.ResponseExpresDelivery;
+
+public interface Service {
+	public ResponseExpresDelivery expresDelivery(ExpresDelivery expresDelivery) throw Exception {
+}

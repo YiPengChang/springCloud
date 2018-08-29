@@ -1,0 +1,16 @@
+package com.atguigu.springcloud.serviceimpl;
+
+import com.atguigu.springcloud.model.ExpresDelivery;
+import com.atguigu.springcloud.model.ResponseExpresDelivery;
+import com.atguigu.springcloud.service.Service;
+
+public class ServiceImpl implements Service{
+
+	@Override
+	public ResponseExpresDelivery expresDelivery(ExpresDelivery expresDelivery) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
+}

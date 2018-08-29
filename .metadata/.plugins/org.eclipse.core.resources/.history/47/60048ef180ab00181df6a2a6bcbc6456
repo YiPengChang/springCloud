@@ -1,0 +1,54 @@
+package com.atguigu.springcloud.model;
+
+import java.util.List;
+
+/**
+ * 快递实体响应
+ * 
+ * @author Administrator
+ *
+ */
+public class ResponseExpresDelivery {
+
+	private String code;
+
+	private String no;
+
+	private String type;
+
+	private List<ResponseExpresDeliveryContent> content;
+
+	public String getCode() {
+		return code;
+	}
+
+	public void setCode(String code) {
+		this.code = code;
+	}
+
+	public String getNo() {
+		return no;
+	}
+
+	public void setNo(String no) {
+		this.no = no;
+	}
+
+	public String getType() {
+		return type;
+	}
+
+	public void setType(String type) {
+		this.type = type;
+	}
+
+	public List<ResponseExpresDeliveryContent> getContent() {
+		return content;
+	}
+
+	public void setContent(List<ResponseExpresDeliveryContent> content) {
+		this.content = content;
+	}
+
+
+}

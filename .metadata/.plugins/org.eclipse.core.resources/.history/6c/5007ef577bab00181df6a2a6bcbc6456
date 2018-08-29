@@ -1,0 +1,10 @@
+package com.atguigu.springcloud.model;
+/**
+ * 快递实体
+ * @author Administrator
+ *
+ */
+public class ExpresDelivery {
+ private String no;
+ private String type;
+}
